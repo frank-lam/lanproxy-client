@@ -86,3 +86,5 @@
 2018-12-30 01:09:12,061 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <starting container [org.fengfei.lanproxy.client.ProxyClientContainer]>
 2018-12-30 01:09:12,201 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] started>
 2018-12-30 01:09:12,245 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x22d735e5, L:/172.16.2.21:56085 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 01:18:27,718 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <stopping container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-30 01:18:27,721 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] stopped>
