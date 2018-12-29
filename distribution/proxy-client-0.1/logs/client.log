@@ -1,0 +1,88 @@
+2018-12-30 00:54:19,519 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <starting container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-30 00:54:19,641 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] started>
+2018-12-30 00:54:19,686 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x956265ce, L:/172.16.2.21:56024 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:19,710 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:21,734 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x284f52e6, L:/172.16.2.21:56025 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:21,756 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:23,780 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xa76bc180, L:/172.16.2.21:56026 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:23,802 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:25,826 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xe6dbbc93, L:/172.16.2.21:56027 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:25,847 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:27,871 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xc2fbcdc8, L:/172.16.2.21:56028 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:27,892 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:29,916 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xaa4bb673, L:/172.16.2.21:56029 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:29,938 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:31,961 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x4cedb51b, L:/172.16.2.21:56030 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:31,983 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:34,006 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x08cb406d, L:/172.16.2.21:56031 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:34,027 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:36,050 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x76393262, L:/172.16.2.21:56032 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:36,072 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:38,095 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x8d0a0783, L:/172.16.2.21:56033 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:38,116 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:40,140 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x6c23b796, L:/172.16.2.21:56034 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:40,162 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:42,186 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x866170e8, L:/172.16.2.21:56035 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:42,208 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:44,232 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x1d1dfb97, L:/172.16.2.21:56036 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:44,254 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:46,277 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xce74dc64, L:/172.16.2.21:56037 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:46,299 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:48,322 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x7ef6529e, L:/172.16.2.21:56038 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:48,344 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:50,371 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x53d57c35, L:/172.16.2.21:56039 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:50,393 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:52,417 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xb25d678e, L:/172.16.2.21:56040 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:52,439 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:54,462 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x3710891f, L:/172.16.2.21:56041 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:54,484 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:56,507 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xe3c39ead, L:/172.16.2.21:56042 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:56,529 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:54:58,553 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x3d079f84, L:/172.16.2.21:56043 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:54:58,576 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:00,598 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xfa85aa29, L:/172.16.2.21:56044 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:55:00,619 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:02,643 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x7677c200, L:/172.16.2.21:56045 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:55:02,665 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:04,688 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xc2f14198, L:/172.16.2.21:56046 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:55:04,709 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:06,732 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x8b9e7ed8, L:/172.16.2.21:56047 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:55:06,753 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:08,776 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x9b87bec7, L:/172.16.2.21:56048 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:55:08,797 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:10,820 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x2b6b7c0e, L:/172.16.2.21:56049 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:55:10,842 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:12,866 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x56bda7fb, L:/172.16.2.21:56050 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:55:12,888 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:14,911 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xfe3684fd, L:/172.16.2.21:56051 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:55:14,932 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:16,955 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x3933ad90, L:/172.16.2.21:56052 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:55:16,977 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:19,001 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xecc8be20, L:/172.16.2.21:56053 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:55:19,023 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:21,048 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x4c4e260c, L:/172.16.2.21:56054 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:55:21,071 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:23,094 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x863a315a, L:/172.16.2.21:56055 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:55:23,117 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:25,140 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xd5b6cd42, L:/172.16.2.21:56056 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:55:25,161 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:27,184 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xf80c8b7d, L:/172.16.2.21:56057 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:55:27,206 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:29,228 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x1b855ef4, L:/172.16.2.21:56058 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:55:29,250 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:55:30,071 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <stopping container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-30 00:55:30,072 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] stopped>
+2018-12-30 00:55:31,315 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <starting container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-30 00:55:31,442 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] started>
+2018-12-30 00:55:31,489 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xb31ab13c, L:/172.16.2.21:56059 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 00:56:41,333 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <stopping container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-30 00:56:41,334 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-30 00:56:41,340 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] stopped>
+2018-12-30 00:56:42,579 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <starting container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-30 00:56:42,698 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] started>
+2018-12-30 00:56:42,745 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x30521a1c, L:/172.16.2.21:56064 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-30 01:08:59,567 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <stopping container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-30 01:08:59,570 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] stopped>
+2018-12-30 01:09:12,061 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <starting container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-30 01:09:12,201 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] started>
+2018-12-30 01:09:12,245 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x22d735e5, L:/172.16.2.21:56085 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>

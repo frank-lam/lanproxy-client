@@ -1,0 +1,106 @@
+2018-12-17 11:25:49,422 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <starting container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-17 11:25:49,571 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] started>
+2018-12-17 11:25:49,588 WARN [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server failed>
+java.net.ConnectException: Connection refused: /127.0.0.1:4900
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:224)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:289)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:545)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:748)
+2018-12-17 11:25:51,593 WARN [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server failed>
+java.net.ConnectException: Connection refused: /127.0.0.1:4900
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:224)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:289)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:545)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:748)
+2018-12-17 11:25:55,597 WARN [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server failed>
+java.net.ConnectException: Connection refused: /127.0.0.1:4900
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:224)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:289)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:545)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:748)
+2018-12-17 11:26:03,602 WARN [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server failed>
+java.net.ConnectException: Connection refused: /127.0.0.1:4900
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:224)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:289)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:545)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:748)
+2018-12-17 11:26:19,606 WARN [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server failed>
+java.net.ConnectException: Connection refused: /127.0.0.1:4900
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:224)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:289)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:545)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:748)
+2018-12-17 11:26:47,813 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <stopping container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-17 11:26:47,825 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] stopped>
+2018-12-17 11:28:43,788 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <starting container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-17 11:28:43,960 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] started>
+2018-12-17 11:28:44,011 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xdefdfc52, L:/192.168.1.100:45226 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-17 12:58:29,636 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <stopping container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-17 12:58:29,640 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-17 12:58:29,678 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] stopped>
+2018-12-17 13:03:53,923 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <starting container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-17 13:03:54,070 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] started>
+2018-12-17 13:03:54,132 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x551d2a8b, L:/192.168.1.100:45302 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-17 13:06:39,218 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <stopping container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-17 13:06:39,219 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-17 13:06:39,267 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] stopped>
+2018-12-17 13:13:10,165 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <starting container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-17 13:13:10,453 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] started>
+2018-12-17 13:13:10,520 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x8ac42a36, L:/192.168.1.100:34424 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-17 13:14:09,061 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <stopping container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-17 13:14:09,069 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-17 13:14:09,070 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] stopped>
+2018-12-17 13:21:58,719 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <starting container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-17 13:21:58,862 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] started>
+2018-12-17 13:21:58,919 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xc9c16bc3, L:/192.168.1.100:34426 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-17 13:24:17,636 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <stopping container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-17 13:24:17,642 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] stopped>
+2018-12-17 13:31:04,875 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <starting container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-17 13:31:05,135 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] started>
+2018-12-17 13:31:05,194 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x043ca970, L:/192.168.1.100:59936 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-17 16:37:16,814 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <stopping container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-17 16:37:16,864 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] stopped>
+2018-12-17 16:42:53,493 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <starting container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-17 16:42:53,635 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] started>
+2018-12-17 16:42:53,694 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0xbb38d8b7, L:/192.168.1.100:59960 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-17 16:43:28,363 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <stopping container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-17 16:43:28,370 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-17 16:43:28,371 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] stopped>
+2018-12-17 16:43:34,011 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <starting container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-17 16:43:34,177 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] started>
+2018-12-17 16:43:34,231 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x8f939b4f, L:/192.168.1.100:59962 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>

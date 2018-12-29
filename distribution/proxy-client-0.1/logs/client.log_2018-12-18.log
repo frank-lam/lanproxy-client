@@ -1,0 +1,12 @@
+2018-12-18 16:54:34,599 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <starting container [org.fengfei.lanproxy.client.ProxyClientContainer]>
+2018-12-18 16:54:34,866 INFO [org.fengfei.lanproxy.common.container.ContainerHelper] - <container [org.fengfei.lanproxy.client.ProxyClientContainer] started>
+2018-12-18 16:54:34,929 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x4712b5dd, L:/192.168.1.101:52134 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-18 17:26:20,117 WARN [org.fengfei.lanproxy.protocol.IdleCheckHandler] - <channel read timeout [id: 0x9f6fe63b, L:/192.168.1.101:52142 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-18 17:26:21,594 WARN [org.fengfei.lanproxy.protocol.IdleCheckHandler] - <channel read timeout [id: 0x4eee8f8f, L:/192.168.1.101:52146 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-18 17:26:21,801 WARN [org.fengfei.lanproxy.protocol.IdleCheckHandler] - <channel read timeout [id: 0x669cecf7, L:/192.168.1.101:52150 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-18 17:26:26,399 WARN [org.fengfei.lanproxy.protocol.IdleCheckHandler] - <channel read timeout [id: 0x39b9eff3, L:/192.168.1.101:52138 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-18 17:26:34,103 WARN [org.fengfei.lanproxy.protocol.IdleCheckHandler] - <channel read timeout [id: 0x10341b48, L:/192.168.1.101:52154 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-18 17:26:34,699 WARN [org.fengfei.lanproxy.protocol.IdleCheckHandler] - <channel read timeout [id: 0xfb9f8654, L:/192.168.1.101:52158 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-18 17:26:36,412 WARN [org.fengfei.lanproxy.protocol.IdleCheckHandler] - <channel read timeout [id: 0x4712b5dd, L:/192.168.1.101:52134 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
+2018-12-18 17:26:36,412 WARN [org.fengfei.lanproxy.client.ClientChannelMannager] - <channel closed, clear real server channels>
+2018-12-18 17:26:43,492 INFO [org.fengfei.lanproxy.client.ProxyClientContainer] - <connect proxy server success, [id: 0x77dd6117, L:/192.168.1.100:56582 - R:lanproxy.biodwhu.cn/120.92.17.172:4900]>
